@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://ik.imagekit.io/4z8covdo9/Full stack/todolistbg.png?updatedAt=1700761069523');
+    font-family:Roboto;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.container {
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+    max-width: 400px;
+}
+.intro{
+    text-align: left;
+}
+button{
+    padding: 10px 20px;
+    border: none;
+    background-color:orange;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#skip{
+    color: #fff;
+}
